@@ -1,0 +1,2 @@
+asn1==2.7.0
+cryptography==41.0.4
